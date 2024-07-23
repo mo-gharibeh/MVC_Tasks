@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC_tasks\\22-7-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A57D8D57-802C-4B2D-97A0-D8ACD1631163}|22-7-2024\\22-7-2024.csproj|c:\\users\\orange\\desktop\\mvc_tasks\\22-7-2024\\22-7-2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57D8D57-802C-4B2D-97A0-D8ACD1631163}|22-7-2024\\22-7-2024.csproj|solutionrelative:22-7-2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57D8D57-802C-4B2D-97A0-D8ACD1631163}|22-7-2024\\22-7-2024.csproj|c:\\users\\orange\\desktop\\mvc_tasks\\22-7-2024\\22-7-2024\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57D8D57-802C-4B2D-97A0-D8ACD1631163}|22-7-2024\\22-7-2024.csproj|solutionrelative:22-7-2024\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57D8D57-802C-4B2D-97A0-D8ACD1631163}|22-7-2024\\22-7-2024.csproj|c:\\users\\orange\\desktop\\mvc_tasks\\22-7-2024\\22-7-2024\\views\\home\\page2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57D8D57-802C-4B2D-97A0-D8ACD1631163}|22-7-2024\\22-7-2024.csproj|solutionrelative:22-7-2024\\views\\home\\page2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57D8D57-802C-4B2D-97A0-D8ACD1631163}|22-7-2024\\22-7-2024.csproj|c:\\users\\orange\\desktop\\mvc_tasks\\22-7-2024\\22-7-2024\\views\\home\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57D8D57-802C-4B2D-97A0-D8ACD1631163}|22-7-2024\\22-7-2024.csproj|solutionrelative:22-7-2024\\views\\home\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57D8D57-802C-4B2D-97A0-D8ACD1631163}|22-7-2024\\22-7-2024.csproj|c:\\users\\orange\\desktop\\mvc_tasks\\22-7-2024\\22-7-2024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57D8D57-802C-4B2D-97A0-D8ACD1631163}|22-7-2024\\22-7-2024.csproj|solutionrelative:22-7-2024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57D8D57-802C-4B2D-97A0-D8ACD1631163}|22-7-2024\\22-7-2024.csproj|c:\\users\\orange\\desktop\\mvc_tasks\\22-7-2024\\22-7-2024\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57D8D57-802C-4B2D-97A0-D8ACD1631163}|22-7-2024\\22-7-2024.csproj|solutionrelative:22-7-2024\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57D8D57-802C-4B2D-97A0-D8ACD1631163}|22-7-2024\\22-7-2024.csproj|c:\\users\\orange\\desktop\\mvc_tasks\\22-7-2024\\22-7-2024\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57D8D57-802C-4B2D-97A0-D8ACD1631163}|22-7-2024\\22-7-2024.csproj|solutionrelative:22-7-2024\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "page2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_tasks\\22-7-2024\\22-7-2024\\Views\\Home\\page2.cshtml",
+              "RelativeDocumentMoniker": "22-7-2024\\Views\\Home\\page2.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC_tasks\\22-7-2024\\22-7-2024\\Views\\Home\\page2.cshtml",
+              "RelativeToolTip": "22-7-2024\\Views\\Home\\page2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T08:31:09.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_tasks\\22-7-2024\\22-7-2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "22-7-2024\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC_tasks\\22-7-2024\\22-7-2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "22-7-2024\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T08:25:10.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_tasks\\22-7-2024\\22-7-2024\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "22-7-2024\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC_tasks\\22-7-2024\\22-7-2024\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "22-7-2024\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:22:29.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_tasks\\22-7-2024\\22-7-2024\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "22-7-2024\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC_tasks\\22-7-2024\\22-7-2024\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "22-7-2024\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:22:24.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_tasks\\22-7-2024\\22-7-2024\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "22-7-2024\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC_tasks\\22-7-2024\\22-7-2024\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "22-7-2024\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:18:49.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "page1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_tasks\\22-7-2024\\22-7-2024\\Views\\Home\\page1.cshtml",
+              "RelativeDocumentMoniker": "22-7-2024\\Views\\Home\\page1.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC_tasks\\22-7-2024\\22-7-2024\\Views\\Home\\page1.cshtml",
+              "RelativeToolTip": "22-7-2024\\Views\\Home\\page1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T08:18:02.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC_tasks\\22-7-2024\\22-7-2024\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "22-7-2024\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC_tasks\\22-7-2024\\22-7-2024\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "22-7-2024\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:22:22.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
