@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC_tasks\\MVC_Tasks\\23-7-2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A720AE0D-C979-43A6-A25A-A6F0C223E906}|23-7-2024\\23-7-2024.csproj|C:\\Users\\Orange\\Desktop\\MVC_tasks\\MVC_Tasks\\23-7-2024\\23-7-2024\\views\\contact\\contactresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A720AE0D-C979-43A6-A25A-A6F0C223E906}|23-7-2024\\23-7-2024.csproj|c:\\users\\orange\\desktop\\mvc_tasks\\mvc_tasks\\23-7-2024\\23-7-2024\\views\\contact\\contactresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A720AE0D-C979-43A6-A25A-A6F0C223E906}|23-7-2024\\23-7-2024.csproj|solutionrelative:23-7-2024\\views\\contact\\contactresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A720AE0D-C979-43A6-A25A-A6F0C223E906}|23-7-2024\\23-7-2024.csproj|c:\\users\\orange\\desktop\\mvc_tasks\\mvc_tasks\\23-7-2024\\23-7-2024\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A720AE0D-C979-43A6-A25A-A6F0C223E906}|23-7-2024\\23-7-2024.csproj|C:\\Users\\Orange\\Desktop\\MVC_tasks\\MVC_Tasks\\23-7-2024\\23-7-2024\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A720AE0D-C979-43A6-A25A-A6F0C223E906}|23-7-2024\\23-7-2024.csproj|solutionrelative:23-7-2024\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -38,8 +38,7 @@
               "RelativeToolTip": "23-7-2024\\Controllers\\ContactController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T00:27:42.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T00:27:42.215Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "23-7-2024\\Views\\Contact\\Contact.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T00:11:50.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T00:11:50.792Z"
             },
             {
               "$type": "Document",
