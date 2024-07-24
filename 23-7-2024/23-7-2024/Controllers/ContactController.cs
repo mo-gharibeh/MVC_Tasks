@@ -9,7 +9,7 @@ namespace _23_7_2024.Controllers
     public class ContactController : Controller
     {
         // GET: Contact
-        public ActionResult Index()
+        public ActionResult Contact()
         {
             return View();
         }
