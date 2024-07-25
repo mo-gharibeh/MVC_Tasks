@@ -26,24 +26,16 @@ namespace login.Controllers
             if (email == arr[0] && password == arr[1])
             {
 
-                Session["Loggedin"] = "1";
+                Session["name"] = "0";
                 return RedirectToAction("Index", "Home");
             }
-            else 
-            {
-                Session["Loggedin"] = "0";
-                return View();
+            return View();
                 
-            }
+            
           
 
         }
-        public ActionResult Logout()
-        {
-            Session["User"] = null;
-            return RedirectToAction("Index", "Home");
-        }
-
+       
 
     }
 }

@@ -24,15 +24,15 @@
                 </ul>
             </div>
         </div>
-        @if (Session["Loggedin"] != null)
+        @if (Session["name"] == "0")
         {
-            <button>@Html.ActionLink("Login", "LoginPage", "Login", new { area = "" }, new { @class = "nav-link" })</button>
-            <button>@Html.ActionLink("Sign up", "LoginPage", "Login", new { area = "" }, new { @class = "nav-link" })</button>
+            <button>@Html.ActionLink("Logout", "Logout", "Home", new { area = "" }, new { @class = "nav-link" })</button>
 
         }
         else
         {
-            <button>@Html.ActionLink("Logout", "LoginPage", "Login", new { area = "" }, new { @class = "nav-link" })</button>
+            <button>@Html.ActionLink("Login", "LoginPage", "Login", new { area = "" }, new { @class = "nav-link" })</button>
+            <button>@Html.ActionLink("Sign up", "LoginPage", "Login", new { area = "" }, new { @class = "nav-link" })</button>
 
         }
     </nav>

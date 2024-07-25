@@ -36,5 +36,10 @@ namespace login.Controllers
 
             return View();
         }
+        public ActionResult Logout()
+        {
+            Session["name"] = "";
+            return RedirectToAction("Index", "Home");
+        }
     }
 }
