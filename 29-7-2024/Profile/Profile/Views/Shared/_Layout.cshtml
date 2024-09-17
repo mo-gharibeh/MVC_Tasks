@@ -27,7 +27,6 @@
         @if (Session["Email"] == "0")
         {
             <button>@Html.ActionLink("Logout", "Logout", "Home", new { area = "" }, new { @class = "nav-link" })</button>
-            <button>@Html.ActionLink("Profile", "Profile", "User", new { area = "" }, new { @class = "nav-link" })</button>
             <a href="@Url.Action("Profile", "User")" class="btn btn-primary">Profile</a>
 
 
