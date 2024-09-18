@@ -16,5 +16,8 @@ namespace School.Models
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public DateTime? EnrollmentDate { get; set; }
+
+        // Navigation property for StudentDetails (1-1 relationship)
+        public virtual StudentDetails StudentDetails { get; set; }
     }
 }

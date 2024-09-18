@@ -85,3 +85,7 @@ C:\Users\Orange\Desktop\MVC_tasks\MVC_Tasks\School\School\obj\Debug\School.Migra
 C:\Users\Orange\Desktop\MVC_tasks\MVC_Tasks\School\School\obj\Debug\School.csproj.GenerateResource.cache
 C:\Users\Orange\Desktop\MVC_tasks\MVC_Tasks\School\School\obj\Debug\School.Migrations.addEmailtoTeacher.resources
 C:\Users\Orange\Desktop\MVC_tasks\MVC_Tasks\School\School\obj\Debug\School.Migrations.changeType.resources
+C:\Users\Orange\Desktop\MVC_tasks\MVC_Tasks\School\School\obj\Debug\School.Migrations.OneToOne.resources
+C:\Users\Orange\Desktop\MVC_tasks\MVC_Tasks\School\School\obj\Debug\School.Migrations.OneToMany.resources
+C:\Users\Orange\Desktop\MVC_tasks\MVC_Tasks\School\School\obj\Debug\School.Migrations.drob.resources
+C:\Users\Orange\Desktop\MVC_tasks\MVC_Tasks\School\School\obj\Debug\School.Migrations.ForeignKey.resources

@@ -15,5 +15,8 @@ namespace School.Models
         public string Department { get; set; }
         // New column
         public string Email { get; set; }
+
+        // Navigation property for the related courses (1-M relationship)
+        public virtual ICollection<Course> Courses { get; set; }
     }
 }
