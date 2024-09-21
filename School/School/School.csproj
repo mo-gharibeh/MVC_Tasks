@@ -163,6 +163,10 @@
     <Compile Include="Migrations\202409181319556_ForeignKey.Designer.cs">
       <DependentUpon>202409181319556_ForeignKey.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202409190920056_manyToMany.cs" />
+    <Compile Include="Migrations\202409190920056_manyToMany.Designer.cs">
+      <DependentUpon>202409190920056_manyToMany.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Assignment.cs" />
     <Compile Include="Models\Course.cs" />
@@ -295,6 +299,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202409181319556_ForeignKey.resx">
       <DependentUpon>202409181319556_ForeignKey.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409190920056_manyToMany.resx">
+      <DependentUpon>202409190920056_manyToMany.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
